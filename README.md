@@ -1,6 +1,6 @@
 # https://radovan-novakovity.github.io
 
-A portfolio website project, built to showcase frontend development projects.
+A portfolio website project, built to showcase development projects.
 
 # It features: 
 - List of other projects 
